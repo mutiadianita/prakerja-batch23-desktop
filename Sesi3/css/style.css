@@ -1,0 +1,11 @@
+/* Selector ID hello3  */
+#hello3 {
+    color: #4e97d1;
+    background-color: pink;
+}
+
+.artikel h1 {
+    color: red;
+    background-color: blue;
+    font-size: 20px;
+}
